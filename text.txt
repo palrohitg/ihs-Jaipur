@@ -1,0 +1,5 @@
+http://inseaddataanalytics.github.io/INSEADAnalytics/groupprojects/January2017/MashableNews.html
+
+https://towardsdatascience.com/data-science-mini-project-on-online-news-popularity-of-mashable-articles-d7a120feef0d
+
+https://github.com/abhijith-asok/BST-260-Final-project-Mashable-Prediction
